@@ -70,10 +70,5 @@ Users have to provide OTP to verify their order which they received on their reg
 ## Responsive :
 Our website is responsive as well.
 
-## Contributors :
-  - [@MoHitksS](https://github.com/MoHitksS) 
-  - [@Ravindra02Yadav](https://github.com/Ravindra02Yadav)
-  - [@BhruguPrasad](https://github.com/BhruguPrasad)
-  - [@Codex-Swapnil1](https://github.com/Codex-Swapnil1)
-  - [@Ppreedam](https://github.com/Ppreedam)
+ 
 
